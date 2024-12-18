@@ -56,6 +56,7 @@ class ImageDisplay1 {
     textAlign(CENTER);
     textSize(20);
     text("Press the number 3 for next stage", width/2, height * 4 / 5);
+    pop();
     // pop();
     // push();
     // textAlign(CENTER, CENTER);
